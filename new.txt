@@ -1,0 +1,6 @@
+
+1.name -Jowi
+2.age -39
+3.Home Pets -Cat (Begimot)
+4.Expected salary -1000$
+
